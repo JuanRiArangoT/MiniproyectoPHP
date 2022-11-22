@@ -1,0 +1,36 @@
+div{
+    /*background: #0077b6;*/
+    border-radius: 5px;
+    padding: 20px 30px 20px 30px;
+}
+
+body{
+    background: #023e8a;
+    font-family: Georgia, serif;
+    font-size: x-large;
+    color: white;
+    background-image: url(../Imagenes/ITM.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.btn{
+    background-color: #023e8a;
+    color: white;
+}
+
+.usuario{
+    background: #0096c7;
+}
+
+.contrasena{
+    background: #0096c7;
+}
+
+span{
+    background-color: #00b4d8;
+}
+
+/*.boton{
+    background: ;
+}*/

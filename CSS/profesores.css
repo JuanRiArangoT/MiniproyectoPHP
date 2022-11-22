@@ -1,0 +1,38 @@
+nav{
+    color: aliceblue;
+}
+
+body{
+    background: #023e8a;
+}
+
+.contenedor{
+    margin-top: 40px;
+    background: #0077b6;
+}
+
+/*form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+*/
+
+.btn{
+    background-color: #023e8a;
+    color: white;
+}
+
+.cardso{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.cardst{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cardstt{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
